@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+venv
+Scripts
+Lib
+bin
+share
+TEST DATASET
+_test-data
+_oranges
+_fruits
